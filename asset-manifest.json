@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-formulario/static/css/main.abc6d20e.css",
+    "main.js": "/curso-formulario/static/js/main.e8fe4787.js",
+    "index.html": "/curso-formulario/index.html",
+    "main.abc6d20e.css.map": "/curso-formulario/static/css/main.abc6d20e.css.map",
+    "main.e8fe4787.js.map": "/curso-formulario/static/js/main.e8fe4787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc6d20e.css",
+    "static/js/main.e8fe4787.js"
+  ]
+}
