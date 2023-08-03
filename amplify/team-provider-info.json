@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cursoformulario-staging-192536-authRole",
+      "UnauthRoleArn": "arn:aws:iam::356060823678:role/amplify-cursoformulario-staging-192536-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::356060823678:role/amplify-cursoformulario-staging-192536-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cursoformulario-staging-192536-deployment",
+      "UnauthRoleName": "amplify-cursoformulario-staging-192536-unauthRole",
+      "StackName": "amplify-cursoformulario-staging-192536",
+      "StackId": "arn:aws:cloudformation:us-east-2:356060823678:stack/amplify-cursoformulario-staging-192536/080bf2e0-2b21-11ee-be7c-0a76382f834d",
+      "AmplifyAppId": "d2uiq95pmix1fj"
+    },
+    "categories": {
+      "auth": {
+        "cursoformulario": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+type Perfil @model @auth(rules: [{allow: owner}]) {
+  id: ID!
+  nombre: String
+  apellido: String
+  municipio: String
+  genero: Boolean
+} 

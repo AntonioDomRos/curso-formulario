@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "cursoformulario",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authcursoformulario",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

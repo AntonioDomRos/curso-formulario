@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"image": "https://img.freepik.com/foto-gratis/chicos-patinan-piscina_1321-1333.jpg?w=1480&t=st=1691005666~exp=1691006266~hmac=940ee3634566b02e82c772474de28e0b15ffc70f5dd5d0edb32f36edff34468d",
+		"title": "Skateboarding"
+	},
+	{
+		"id": 2,
+		"image": "https://img.freepik.com/foto-gratis/amigas-tiro-medio-jugando-baloncesto_23-2150209903.jpg?w=1380&t=st=1691005759~exp=1691006359~hmac=83be55ad060784852ecb644bbee07307950ceadb51de62c505d884a89ba5f5f8",
+		"title": "Basketball"
+	},
+	{
+		"id": 3,
+		"image": "https://img.freepik.com/foto-gratis/primer-plano-mujer-snowboarder-movimiento-sobre-tabla-snowboard-montana_181624-40179.jpg?w=1380&t=st=1691005820~exp=1691006420~hmac=3f55958e6dbbc43bfd315f2f6967713913f3b3750223671a13e148efbcfefe1b",
+		"title": "Snowboarding"
+	}
+]
